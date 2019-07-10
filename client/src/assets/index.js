@@ -1,0 +1,1 @@
+// This is the assets folder where we'll be keeping images and stuff
